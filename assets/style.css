@@ -132,21 +132,21 @@ body,
     padding-right: 2rem;
 }
 
-main .part2 form .row .left-row h5 {
+.part2 form .row .left-row h5 {
     font-size: 1.2rem;
     text-transform: uppercase;
     font-weight: normal;
 }
 
-main .part2 form .row .right-r {
+.part2 form .row .right-r {
     text-align: center;
 }
 
-main .part2 form .row .right-r h6 {
+.part2 form .row .right-r h6 {
     font-size: 1.2rem;
 }
 
-main .part2 form .row .right-r h6 span {
+.part2 form .row .right-r h6 span {
     padding-left: 1rem;
 }
 
